@@ -10,4 +10,4 @@ Enough [anti-marketing](https://notes.andymatuschak.org/z4bK6LaSBRetDzuYkeCs3A8m
 
 Coding as a force for good, shamanic coding, open-source, creating gifts for cyberspace friends, what would Daedalus do?, digital hellenistic offerings, Linux, Manjaro Linux, customizing your home in the cyberspace.
 
-- [Twitter](https://twitter.com/kasrakaley)
+[Let's takl on Twitter](https://twitter.com/kasrakaley)
