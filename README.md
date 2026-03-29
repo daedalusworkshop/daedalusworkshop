@@ -1,13 +1,41 @@
-# Daedalus
-In Greek Mythology, Daedalus was the greatest architect and craftman, seen as a symbol of wisdom, power, and knowledge. He created the labyrinth, home of the Minotaur. 
-### Flying too close to the sun
-When he helped Theseus kill the Minotaur; him and his son, Icarus, were imprisoned. To escape, Daedalus made wings. But he warned Icarus that if he went too close to the sun, the wax glueing the wings together would cause the wings to break. Icarus forgot about this and flew too close to the sun. For centuries, this idiom had been used.
+# Kasra Mikaili
 
-# [Kasra Kaley](https://twitter.com/kasrakaley)
-While I'm precocious, I shares more qualaties with Icarus than Daedalus. As I'm 15, fly using the wings of my mentors, and I have a propensity to go to extremes which can lead to flying too close to the sun.
+Freshman. I build things that sit at the edge of language, sound, and computation — usually because I got curious about something and couldn't stop.
 
-I've named myself Daedalus because I believe in [joke about the results you want to see](https://twitter.com/visakanv/status/1394772091660951555?s=20&t=jlzQ4HJ-XbXcD6JIRQegiQ) and I hope that someday in the cloudy depths of the future, I can make wings to save us from the prision of "modern" day computers.
+Currently: music tech + CS at college, looking for something to work on this summer.
 
-Enough [anti-marketing](https://notes.andymatuschak.org/z4bK6LaSBRetDzuYkeCs3A8mJ8DufTbK4o6FS), I'm interested in (mostly) everything. Here's some coding spirits I dance with:
+---
 
-Coding as a force for good, shamanic coding, open-source, creating gifts for cyberspace friends, what would Daedalus do?, digital hellenistic offerings, Linux, Manjaro Linux, customizing your home in the cyberspace.
+## Projects
+
+**[zinemaker](https://github.com/daedalusworkshop/zinemaker)**
+Paste any text — a conversation, a poem, field notes — and get back a printable 8-page mini-zine. Claude picks the aesthetic, Colormind generates the palette, and you fold it into a booklet. Built because I wanted to turn my own writing into objects.
+
+**[sonifying embeddings playground](https://github.com/daedalusworkshop/SonifyingEmbeddingsPlayground)**
+A pipeline that maps text to music. Feed it any string → emotional embeddings → cosine similarity against chord anchors → Csound synthesis. The idea: if meaning lives in vector space, can it live in sound too?
+
+**[data sonification — midterm](https://github.com/daedalusworkshop/data-sonification-midterm)**
+Csound piece that turns a dataset into a composition. Data as score. Built for a music tech midterm.
+
+**[poetry self-improving loop](https://github.com/daedalusworkshop/poetry-self-improving-loop)**
+A poem generator that evolves its own prompt. Humans rate each poem on frisson (that spine-tingle of aesthetic pleasure), and the system rewrites its instructions toward more of it. Runs indefinitely.
+
+**[project telephone](https://github.com/daedalusworkshop/project-telephone)**
+Can explain to anyone who asks :)
+
+**[every intelligence](https://github.com/daedalusworkshop/Every-Intelligence)**
+You paste a ChatGPT conversation. It finds the Every.to articles that resonate with it — not by keyword, but by meaning. FastAPI + embeddings + a 5k-article database.
+
+---
+
+## Background
+
+I've been writing code since middle school, but I think of it less as a discipline and more as a material — like wood or clay. I'm interested in what happens when language models, music, and interaction design collide.
+
+Stack I reach for: Python, JavaScript/Node, Csound, a little bit of everything.
+
+Things I care about: expressive interfaces, tools that feel alive, making things that can be handed to someone else.
+
+---
+
+[Twitter / X](https://twitter.com/kasrakaley)
